@@ -2,15 +2,15 @@
    SMART GROCERY STORE
 ========================
 Bill No : BILL0001
-Date    : 2026-07-11 09:16:42
+Date    : 2026-07-25 00:58:49
 
-Rice
-30 x 30.00 = 900.00
+Soap
+5 x 25.00 = 125.00
 
 ------------------------
-Subtotal : 900.00
-GST (5%) : 45.00
-Grand Total : 945.00
+Subtotal : 125.00
+GST (5%) : 6.25
+Grand Total : 131.25
 
 Thank You
 Visit Again

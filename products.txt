@@ -7,6 +7,6 @@
 107|Cooking Oil|Grocery|150.0|30|Sunrise Oils
 108|Butter|Dairy|55.0|200|XYZ Dairy
 109|Tea|Beverages|120.0|20|Chai Traders
-110|Soap|Household|25.0|100|Clean Co
+110|Soap|Household|25.0|95|Clean Co
 111|Shampoo|Household|90.0|10|Clean Co
 112|Biscuits|Snacks|15.0|100|Tasty Foods
