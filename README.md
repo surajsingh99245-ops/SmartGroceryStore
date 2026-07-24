@@ -38,16 +38,16 @@ It allows administrators to manage inventory while customers can browse products
 ## 📸 Screenshots
 
 ### Home Menu
-![Home Menu](C:\Users\HP\Pictures\Screenshots)
+![Home Menu](HomeScreen.png)
 
 ### Admin Panel
-![Admin Panel](C:\Users\HP\Pictures\Screenshots)
+![Admin Panel](AdminPanel.png)
 
 ### Billing
-![Billing](C:\Users\HP\Pictures\Screenshots)
+![Billing](billing.png)
 
 ### Sales Report
-![Sales Report](C:\Users\HP\Pictures\Screenshots)
+![Sales Report](salesReport.png)
 
 ## ▶️ How to Run
 
