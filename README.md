@@ -38,16 +38,16 @@ It allows administrators to manage inventory while customers can browse products
 ## 📸 Screenshots
 
 ### Home Menu
-![Home Menu](HomeScreen.png)
+![Home Menu](images/HomeScreen.png)
 
 ### Admin Panel
-![Admin Panel](AdminPanel.png)
+![Admin Panel](images/AdminPanel.png)
 
 ### Billing
-![Billing](billing.png)
+![Billing](images/billing.png)
 
 ### Sales Report
-![Sales Report](salesReport.png)
+![Sales Report](images/salesReport.png)
 
 ## ▶️ How to Run
 
