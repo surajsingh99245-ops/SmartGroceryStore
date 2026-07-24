@@ -1,0 +1,16 @@
+========================
+   SMART GROCERY STORE
+========================
+Bill No : BILL0002
+Date    : 2026-07-24 14:45:55
+
+Shampoo
+1 x 90.00 = 90.00
+
+------------------------
+Subtotal : 90.00
+GST (5%) : 4.50
+Grand Total : 94.50
+
+Thank You
+Visit Again

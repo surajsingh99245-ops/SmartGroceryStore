@@ -1,0 +1,12 @@
+101|Rice|Grocery|60.0|100|ABC Traders
+102|Milk|Dairy|30.0|40|XYZ Dairy
+103|Bread|Bakery|35.0|25|Local Bakery
+104|Eggs|Dairy|70.0|8|XYZ Dairy
+105|Sugar|Grocery|45.0|60|ABC Traders
+106|Salt|Grocery|20.0|5|ABC Traders
+107|Cooking Oil|Grocery|150.0|30|Sunrise Oils
+108|Butter|Dairy|55.0|200|XYZ Dairy
+109|Tea|Beverages|120.0|20|Chai Traders
+110|Soap|Household|25.0|100|Clean Co
+111|Shampoo|Household|90.0|14|Clean Co
+112|Biscuits|Snacks|15.0|100|Tasty Foods

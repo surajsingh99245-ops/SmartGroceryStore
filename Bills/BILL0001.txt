@@ -1,0 +1,16 @@
+========================
+   SMART GROCERY STORE
+========================
+Bill No : BILL0001
+Date    : 2026-07-11 09:16:42
+
+Rice
+30 x 30.00 = 900.00
+
+------------------------
+Subtotal : 900.00
+GST (5%) : 45.00
+Grand Total : 945.00
+
+Thank You
+Visit Again
