@@ -35,17 +35,19 @@ It allows administrators to manage inventory while customers can browse products
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-> Add one or two screenshots of your application here after uploading them.
+### Home Menu
+![Home Menu](c:\Users\HP\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{E951F876-3DDC-4B14-BAEA-6D5308570A13}.png)
 
-```
-📷 Example:
-images/home.png
-images/billing.png
-```
+### Admin Menu
+![Admin Menu](c:\Users\HP\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{FC982929-7607-4E85-8EDC-26CD252D79FD}.png)
 
----
+### Billing
+![Billing](c:\Users\HP\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{8BB7DD95-C3C7-4BCE-A258-C23217479A86}.png)
+
+### Sales Report
+![Sales Report](c:\Users\HP\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{D6D7FD9A-F0C9-453D-BD91-AB1CC73ABF8B}.png)
 
 ## ▶️ How to Run
 
